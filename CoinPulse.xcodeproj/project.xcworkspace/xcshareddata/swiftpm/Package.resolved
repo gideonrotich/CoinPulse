@@ -1,0 +1,24 @@
+{
+  "originHash" : "3989fc4f0d5e1a6bfee483b85fb8b52b1a97c2be018cf96b4440909602342c0b",
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts",
+      "state" : {
+        "revision" : "dd9c72e3d7e751e769971092a6bd72d39198ae63",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "swift-trading-view",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sergiikhliustin/swift-trading-view",
+      "state" : {
+        "revision" : "ab6c0c611acebda007c396f6ecfa01228e1aaa34",
+        "version" : "1.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
