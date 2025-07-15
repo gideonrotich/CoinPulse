@@ -3,14 +3,23 @@
   <img src="screenshot/test.png" width="300" alt="">
 <br>
 <br>
-CoinPulse is a sleek iOS app that tracks real-time cryptocurrency prices, market caps, and 24h performance with interactive charts and a beautiful UI.
+CoinPulse
 </h1>
 <br>
 
-| Splashscreen | Home | Search | Predictions |
-| ------ | ----- | ------ | ----- |
-| ![Rankings](screenshot/eight.png) | ![Predict](screenshot/one.png) | ![Predictions](screenshot/two.png) | ![Live](screenshot/three.png) |
-
-| Matches | Live | News | Info |
-| ------ | ----- | ------ | ----- |
-| ![Fixtures](screenshot/four.png) | ![Results](screenshot/five.png) | ![News](screenshot/six.png) | ![Info](screenshot/seven.png) |
+<table>
+  <tr>
+    <td align="center"><img src="screenshot/eight.png" width="200"/><br>Splashscreen</td>
+    <td align="center"><img src="screenshot/one.png" width="200"/><br>Home</td>
+    <td align="center"><img src="screenshot/two.png" width="200"/><br>Search</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshot/three.png" width="200"/><br>Predictions</td>
+    <td align="center"><img src="screenshot/four.png" width="200"/><br>Matches</td>
+    <td align="center"><img src="screenshot/five.png" width="200"/><br>Live</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshot/six.png" width="200"/><br>News</td>
+    <td align="center"><img src="screenshot/seven.png" width="200"/><br>Info</td>
+  </tr>
+</table>
