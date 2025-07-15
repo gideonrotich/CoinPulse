@@ -30,7 +30,11 @@ CoinPulse
 </table>
 
 
-https://github.com/user-attachments/assets/e337686e-1d83-47a9-82ec-47f0ce55d1d7
+
+https://github.com/user-attachments/assets/848609b6-5e94-4b28-b581-3947dee3d9b5
+
+
+
 
 
 #### ✅ Testing
