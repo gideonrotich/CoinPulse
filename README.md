@@ -21,6 +21,11 @@ CoinPulse
   <tr>
     <td align="center"><img src="screenshot/six.png" width="320"/><br>Details</td>
     <td align="center"><img src="screenshot/seven.png" width="320"/><br>Favourites</td>
+    <td align="center">
+      <a href="screenshot/appvideo.mp4">
+        <img src="screenshot/one.png" width="320"/><br>App Demo 🎬
+      </a>
+    </td>
   </tr>
 </table>
 
