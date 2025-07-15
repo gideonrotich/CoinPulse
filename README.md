@@ -29,13 +29,11 @@ CoinPulse
   </tr>
 </table>
 
+### 🎥 App Demo
 
+Get a quick look at how **CoinPulse** works in real time
 
 https://github.com/user-attachments/assets/848609b6-5e94-4b28-b581-3947dee3d9b5
-
-
-
-
 
 #### ✅ Testing
 This project includes the following tests to ensure quality and reliability: 
