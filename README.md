@@ -22,8 +22,10 @@ CoinPulse
     <td align="center"><img src="screenshot/six.png" width="320"/><br>Details</td>
     <td align="center"><img src="screenshot/seven.png" width="320"/><br>Favourites</td>
 <td align="center">
-      https://github.com/user-attachments/assets/c9d5a1b1-f1b4-41ab-9893-56f29c2f2cad
-    </td> 
+      <a href="https://github.com/user-attachments/assets/c9d5a1b1-f1b4-41ab-9893-56f29c2f2cad/appvideo.mp4">
+        <img src="screenshot/video_thumb.png" width="320"/><br>App Demo 🎬
+      </a>
+    </td>
   </tr>
 </table>
 
