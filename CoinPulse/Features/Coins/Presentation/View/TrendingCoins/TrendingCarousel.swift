@@ -80,7 +80,7 @@ struct TrendingCard: View {
             }
         }
         .padding(16)
-        .frame(width: 200, height: 84)
+        .frame(width: 210, height: 84)
         .background(
             RoundedRectangle(cornerRadius: 12)
                 .stroke(Color(.systemGray4), lineWidth: 1)
