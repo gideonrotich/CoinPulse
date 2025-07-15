@@ -37,4 +37,4 @@ To run all tests:
 
 | Test Coverage Snapshot |
 |:-----------------------:|
-| <img src="./screenshots/testcase.png" width="600"> |
+| <img src="screenshot/testcase.png" width="600"> |
