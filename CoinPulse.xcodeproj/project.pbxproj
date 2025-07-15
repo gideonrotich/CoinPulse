@@ -20,6 +20,7 @@
 		5E5F7B812E266E32001AED42 /* six.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5F7B772E266E32001AED42 /* six.png */; };
 		5E5F7B822E266E32001AED42 /* five.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5F7B732E266E32001AED42 /* five.png */; };
 		5E5F7B842E266E5E001AED42 /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5F7B832E266E5E001AED42 /* test.png */; };
+		5E5F7B882E26759C001AED42 /* testcase.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5F7B872E26759C001AED42 /* testcase.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5E5F7B782E266E32001AED42 /* three.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = three.png; sourceTree = "<group>"; };
 		5E5F7B792E266E32001AED42 /* two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = two.png; sourceTree = "<group>"; };
 		5E5F7B832E266E5E001AED42 /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		5E5F7B872E26759C001AED42 /* testcase.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testcase.png; sourceTree = "<group>"; };
 		5EA35D8F2E2248CA00859F79 /* CoinPulse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinPulse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EA35D9C2E2248CC00859F79 /* CoinPulseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinPulseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EA35DA62E2248CC00859F79 /* CoinPulseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinPulseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -117,6 +119,7 @@
 		5E5F7B7A2E266E32001AED42 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				5E5F7B872E26759C001AED42 /* testcase.png */,
 				5E5F7B832E266E5E001AED42 /* test.png */,
 				5E5F7B722E266E32001AED42 /* eight.png */,
 				5E5F7B732E266E32001AED42 /* five.png */,
@@ -288,6 +291,7 @@
 				5E5F7B812E266E32001AED42 /* six.png in Resources */,
 				5E5F7B822E266E32001AED42 /* five.png in Resources */,
 				5E5F7B842E266E5E001AED42 /* test.png in Resources */,
+				5E5F7B882E26759C001AED42 /* testcase.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
