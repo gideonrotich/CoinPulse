@@ -23,3 +23,18 @@ CoinPulse
     <td align="center"><img src="screenshot/seven.png" width="320"/><br>Favourites</td>
   </tr>
 </table>
+
+#### ✅ Testing
+This project includes the following tests to ensure quality and reliability: 
+- ✅ Core Data Persistence Tests    
+
+To run all tests:  
+- Press **⌘ + U** in Xcode  
+- Or go to **Product > Test** in the Xcode menu  
+---
+
+### 🧪 Test Results
+
+| Test Coverage Snapshot |
+|:-----------------------:|
+| <img src="./Screenshots/testcase.png" width="600"> |
