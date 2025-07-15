@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="screenshot/test.png" width="150" alt="">
+  <img src="screenshot/test.png" width="200" alt="">
 <br>
 <br>
 CoinPulse
