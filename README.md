@@ -29,6 +29,10 @@ CoinPulse
   </tr>
 </table>
 
+
+https://github.com/user-attachments/assets/e337686e-1d83-47a9-82ec-47f0ce55d1d7
+
+
 #### ✅ Testing
 This project includes the following tests to ensure quality and reliability: 
 - ✅ Core Data Persistence Tests    
